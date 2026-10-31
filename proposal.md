@@ -1,7 +1,7 @@
 # Community Software Analysis Proposal
 Please edit this file and push to your repository.
 
-## Software: *NAME_OF_PACKAGE_HERE*
+## Software: AMRex-Fluids/incflo
 
 *Write a paragraph describing what the software does and who its
 primary audience is.*
@@ -10,21 +10,21 @@ primary audience is.*
 
 | Description | Your answer |
 |---------|-----------|
-| Repository URL |    |
-| Main/documentation website |    |
-| Year project was started |   |
-| Number of contributors in the past year | `git shortlog -se --since=2025-11-01` may be useful |
-| Number of contributors in the lifetime of the project |   |
-| Number of distinct affiliations | 1, 2-5, 5-10, >10 |
-| Where do development discussions take place? | e.g., GitHub/GitLab issues, mailing list, Slack, etc.  |
-| Typical number of emails/comments per week? |   |
-| Typical number of commits per week? |  |
-| Typical commit size | `git log --shortstat` may be useful |
-| How does the project accept contributions? | e.g., pull requests, patches on mailing lists   |
-| Does the project have an automated test suite? | yes/no |
-| Does the project use continuous integration? | yes/no |
-| Does the project have an AI contribution policy? | link |
-| Are any legal/licensing steps required to contribute? | no or explain below |
+| Repository URL |https://github.com/AMReX-Fluids/incflo|
+| Main/documentation website |https://amrex-fluids.github.io/incflo/docs_html/|
+| Year project was started |2017|
+| Number of contributors in the past year | 6 |
+| Number of contributors in the lifetime of the project | 19 |
+| Number of distinct affiliations | 5 - 10 |
+| Where do development discussions take place? | GitHub/GitLab issues|
+| Typical number of emails/comments per week? |1 - 5|
+| Typical number of commits per week? | 2 - 4 |
+| Typical commit size | ~10 files changed,  ~100 changes |
+| How does the project accept contributions? | pull requests |
+| Does the project have an automated test suite? | yes |
+| Does the project use continuous integration? | yes |
+| Does the project have an AI contribution policy? | Not Specifed |
+| Are any legal/licensing steps required to contribute? | no |
 
 ### Install and run
 
