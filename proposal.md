@@ -3,8 +3,7 @@ Please edit this file and push to your repository.
 
 ## Software: AMRex-Fluids/incflo
 
-*Write a paragraph describing what the software does and who its
-primary audience is.*
+This is an open-source computational fluid dynamics solver to simulate variable density incompressible flow using the Navier-Stokes equations in complex geometries.
 
 ### Stats
 
